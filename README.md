@@ -1,2 +1,2 @@
-# 0$B$+$i:n$k(BDeep Learning$B$r<BAu(B
+# 0から作るDeep Learningを実装
 
